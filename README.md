@@ -15,3 +15,13 @@ GitHub Pages publishes the `main` branch from the repository root. Keep `baseurl
 The existing support email, `unpouchedapp@gmail.com`, is intentionally retained. App Store bundle IDs and purchase product IDs are technical identifiers and are separate from this site's branding.
 
 The app repository keeps a copy of these pages in `docs/`. Update that copy whenever the published policies change. Existing alternate support URLs must continue to resolve for older app versions.
+
+## Compatibility routes
+
+- `unpouched/unpouched.github.io` preserves the old `/unpouched/` website paths used by published app versions.
+- `sndr999/uncanned-site` forwards the alternate support URLs created during the rebrand.
+- Both point to this site's `/uncanned/` pages. Keep the forwarding pages while installed app versions or App Store metadata still use them.
+
+## Keeping the policy accurate
+
+The current app opens Keepwell only after a Contact Support tap and uses its support-only mode. If that integration or another data flow changes, update the privacy page and the app's privacy disclosures together. Verify account deletion, support contact details, and all published page links before changing release metadata.
