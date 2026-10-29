@@ -1,21 +1,21 @@
 ---
-title: Unpouched Terms of Use
+title: Uncanned Terms of Use
 permalink: /terms/
 ---
 
-# Unpouched Terms of Use
+# Uncanned Terms of Use
 
-Last updated: 4 October 2026
+Last updated: 29 October 2026
 
-These terms are an agreement between you and Unpouched ("we", "us") for using the Unpouched app. By using the app, you agree to them. If you don't agree, please don't use it.
+These terms are an agreement between you and Sander Pärn, the provider of Uncanned ("we", "us"), for using the Uncanned app. By using the app, you agree to them. If you don't agree, please don't use it.
 
-## Who can use Unpouched
+## Who can use Uncanned
 
 You must be at least 18 and legally allowed to buy nicotine products where you live. The app is for your own personal use.
 
 ## Not medical advice
 
-Unpouched is a self-help tool for cutting down nicotine pouches. It is not a medical device and does not give medical advice, diagnosis or treatment. It does not replace a doctor.
+Uncanned is a self-help tool for cutting down and quitting nicotine pouches and snus. It is not a medical device and does not give medical advice, diagnosis or treatment. It does not replace a doctor.
 
 - Information in the app, such as the body timeline and dependence level, is general and may not apply to you.
 - Talk to a doctor or pharmacist before changing your nicotine use, especially if you are pregnant, breastfeeding, have a health condition or take medication.
@@ -25,7 +25,7 @@ You decide how you use the plan and are responsible for your own choices. Result
 
 ## Subscriptions
 
-Unpouched requires an active subscription (Unpouched Pro). A free trial may be offered; if so, its length is shown before you start.
+An active Uncanned Pro subscription or trial is required to access the main app. Monthly and annual plans are offered. The annual plan includes a 7-day free trial for eligible subscribers. Prices, trial eligibility, and renewal terms are shown before you subscribe.
 
 - Prices are shown in the app before you buy.
 - Payment is charged to your Apple ID when you confirm, or when a free trial ends, unless you cancel before it ends.
@@ -45,7 +45,7 @@ Don't misuse the app. That means no copying or reverse engineering it (except wh
 
 ## Our content
 
-The app, its design, the Pip character, texts and code belong to us or our licensors. We give you a personal, non-transferable licence to use the app on Apple devices you own or control, under Apple's Usage Rules. Your own data stays yours.
+The app, its design, the Pip character, texts and code belong to us or our licensors. We give you a personal, non-transferable licence to use the app on Apple devices you own or control, under Apple's Usage Rules. Your own data stays yours. Apple's [Standard License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) applies where selected for the app in the App Store.
 
 ## Apple
 
@@ -75,4 +75,9 @@ We may update these terms. The date at the top shows the latest version. If a ch
 
 ## Contact
 
-unpouchedapp@gmail.com
+Sander Pärn, provider of Uncanned.
+
+[unpouchedapp@gmail.com](mailto:unpouchedapp@gmail.com)
+
+
+[Support](../support/) · [Privacy Policy](../privacy/) · [Uncanned home](../)

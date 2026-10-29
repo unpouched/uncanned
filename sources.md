@@ -1,11 +1,11 @@
 ---
-title: Unpouched Sources
+title: Uncanned Sources
 permalink: /sources/
 ---
 
-# Unpouched Sources
+# Uncanned Sources
 
-The Progress screen in Unpouched shows six points in time, counted from your last pouch. These are the public sources behind each one. The sources describe nicotine withdrawal in general; nicotine pouches contain the same drug, so the same withdrawal pattern applies. Everyone is different, which is why the app says "usually".
+The Progress screen in Uncanned shows six points in time, counted from your last pouch. These are the public sources behind each one. The sources describe nicotine withdrawal in general; nicotine pouches contain the same drug, so the same withdrawal pattern applies. Everyone is different, which is why the app says "usually".
 
 The timeline is based on general research about nicotine withdrawal and applies to nicotine pouches because they contain the same drug; individual experience varies.
 
@@ -39,3 +39,6 @@ Withdrawal symptoms start within hours of the last dose of nicotine.
 - Smokefree.gov, [Understanding Withdrawal](https://smokefree.gov/challenges-when-quitting/withdrawal/understanding-withdrawal): cravings can be triggered by the people, places and situations around you.
 
 General information, not medical advice.
+
+
+[Support](../support/) · [Privacy Policy](../privacy/) · [Uncanned home](../)

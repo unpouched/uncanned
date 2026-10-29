@@ -1,3 +1,6 @@
-title: Unpouched
+title: Uncanned
+description: Support, privacy, terms, and sources for the Uncanned app.
+url: https://unpouched.github.io
+baseurl: /uncanned
 theme: jekyll-theme-minimal
 show_downloads: false
