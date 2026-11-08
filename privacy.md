@@ -11,7 +11,7 @@ Uncanned helps adults cut down and quit nicotine pouches and snus. Your plan and
 
 ## Who we are
 
-Uncanned is provided by Sander Pärn ("we", "us"), the controller responsible for the personal data described in this policy. Contact: [unpouchedapp@gmail.com](mailto:unpouchedapp@gmail.com).
+Uncanned is provided by Sander Pärn ("we", "us"), the controller responsible for the personal data described in this policy. Contact: [hello@uncanned.app](mailto:hello@uncanned.app).
 
 ## Data stored on your phone
 
@@ -43,7 +43,7 @@ You can contact us by email or through **Contact Support** inside the app.
 - If you send a chat message, its text, conversation history, and related timestamps are stored to deliver the conversation and let us reply.
 - The app does not automatically attach your pouch logs, craving ratings, health answers, or backup to support messages. The current support-only integration does not send Apple purchase history to Keepwell or enable photo attachments, promotional offers, or retention prompts.
 
-Support correspondence is separate from your app account and backup. **Delete all my data** and **Delete my account** do not automatically delete support conversations. To request access to or deletion of support correspondence, email [unpouchedapp@gmail.com](mailto:unpouchedapp@gmail.com).
+Support correspondence is separate from your app account and backup. **Delete all my data** and **Delete my account** do not automatically delete support conversations. To request access to or deletion of support correspondence, email [hello@uncanned.app](mailto:hello@uncanned.app).
 
 ## Anonymous usage statistics
 
@@ -94,7 +94,7 @@ These pages are hosted on GitHub Pages. GitHub logs visitors' IP addresses for s
 
 ## Your rights
 
-You can access, correct, export or delete your data, restrict or object to its use, and withdraw consent at any time. Most of this you can do in the app. For anything else, email us at unpouchedapp@gmail.com and we will reply within one month. You can also complain to the data protection authority in your country. In Estonia this is the Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon, www.aki.ee).
+You can access, correct, export or delete your data, restrict or object to its use, and withdraw consent at any time. Most of this you can do in the app. For anything else, email us at hello@uncanned.app and we will reply within one month. You can also complain to the data protection authority in your country. In Estonia this is the Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon, www.aki.ee).
 
 ## Age
 
@@ -112,7 +112,7 @@ We may update this policy. The date at the top shows the latest version. If a ch
 
 Sander Pärn, provider of Uncanned.
 
-[unpouchedapp@gmail.com](mailto:unpouchedapp@gmail.com)
+[hello@uncanned.app](mailto:hello@uncanned.app)
 
 
 [Support](../support/) · [Terms of Use](../terms/) · [Uncanned home](../)

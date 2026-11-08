@@ -5,7 +5,7 @@ permalink: /support/
 
 # Uncanned Support
 
-For questions, technical issues, feedback, or privacy requests, email [unpouchedapp@gmail.com](mailto:unpouchedapp@gmail.com). This is the current support address for Uncanned.
+For questions, technical issues, feedback, or privacy requests, email [hello@uncanned.app](mailto:hello@uncanned.app). This is the current support address for Uncanned.
 
 Uncanned is provided by Sander Pärn.
 

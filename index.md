@@ -18,6 +18,6 @@ Uncanned helps adults cut down and quit nicotine pouches and snus with a persona
 
 ## Contact
 
-For app support or privacy requests, email [unpouchedapp@gmail.com](mailto:unpouchedapp@gmail.com).
+For app support or privacy requests, email [hello@uncanned.app](mailto:hello@uncanned.app).
 
 Uncanned is provided by Sander Pärn.

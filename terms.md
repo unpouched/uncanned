@@ -77,7 +77,7 @@ We may update these terms. The date at the top shows the latest version. If a ch
 
 Sander Pärn, provider of Uncanned.
 
-[unpouchedapp@gmail.com](mailto:unpouchedapp@gmail.com)
+[hello@uncanned.app](mailto:hello@uncanned.app)
 
 
 [Support](../support/) · [Privacy Policy](../privacy/) · [Uncanned home](../)
