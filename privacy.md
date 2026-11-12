@@ -97,7 +97,8 @@ Only service providers that run parts of the app for us:
 - RevenueCat: subscription status.
 - Keepwell: in-app support sessions and messages.
 - Our email service: messages you send to the support address.
-- GitHub Pages: hosting this public support and policy website.
+- Vercel: hosting uncanned.app and processing technical request data to deliver and secure the site.
+- GitHub Pages: hosting the older public support and policy pages.
 - Apple and Google: sign-in and payments, only if you use them.
 
 They may use the data only to provide their service to us. If a provider processes data outside the EU/EEA, it is protected by safeguards such as the EU Standard Contractual Clauses. We never sell or rent your data.
@@ -112,7 +113,7 @@ They may use the data only to provide their service to us. If a provider process
 
 ## Website visits
 
-These pages are hosted on GitHub Pages. GitHub logs visitors' IP addresses for security purposes, including when visitors are not signed in. See [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+The uncanned.app website is hosted on Vercel, which processes request data including IP addresses and technical information to deliver and secure the site. Older public pages are hosted on GitHub Pages; GitHub logs visitors' IP addresses for security purposes, including when visitors are not signed in. See [Vercel's Privacy Policy](https://vercel.com/legal/privacy-policy) and [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Your rights
 
